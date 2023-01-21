@@ -38,13 +38,14 @@ background-size: cover;
 
 body {
   font-family: "Inter", sans-serif;
+  font-size: large;
   color: var(--text-color);
   text-decoration: none;
 }
 #container {
-  width: 360px;
+  width: 100%;
   margin: auto;
-
+  max-width: 588px;
   padding: 0 24px;
   padding-top: 54px;
 }
