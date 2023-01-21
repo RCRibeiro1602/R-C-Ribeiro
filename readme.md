@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Esse foi um projeto desenvolvido e pela Rockeseat e modificado por mim.. <br/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="Capa do Projeto DevLinks" src=".github/capa.jpg" width="100%">
+  <img alt="Capa do Projeto DevLinks" src="https://github.com/maykbrito/devlinks/blob/main/.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,9 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
-
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
